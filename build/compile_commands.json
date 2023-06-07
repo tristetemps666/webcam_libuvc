@@ -1,0 +1,92 @@
+[
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -TP -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\src -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd /W4 -std:c++latest /FoCMakeFiles\\webcam_libuvc.dir\\src\\main.cpp.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\src\\main.cpp",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\src\\main.cpp"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -Duvc_EXPORTS -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc.dir\\src\\ctrl.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\ctrl.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\ctrl.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -Duvc_EXPORTS -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc.dir\\src\\ctrl-gen.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\ctrl-gen.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\ctrl-gen.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -Duvc_EXPORTS -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc.dir\\src\\device.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\device.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\device.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -Duvc_EXPORTS -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc.dir\\src\\diag.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\diag.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\diag.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -Duvc_EXPORTS -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc.dir\\src\\frame.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\frame.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\frame.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -Duvc_EXPORTS -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc.dir\\src\\init.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\init.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\init.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -Duvc_EXPORTS -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc.dir\\src\\stream.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\stream.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\stream.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -Duvc_EXPORTS -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc.dir\\src\\misc.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\misc.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\misc.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc_static.dir\\src\\ctrl.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\ctrl.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\ctrl.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc_static.dir\\src\\ctrl-gen.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\ctrl-gen.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\ctrl-gen.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc_static.dir\\src\\device.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\device.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\device.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc_static.dir\\src\\diag.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\diag.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\diag.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc_static.dir\\src\\frame.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\frame.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\frame.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc_static.dir\\src\\init.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\init.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\init.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc_static.dir\\src\\stream.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\stream.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\stream.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\uvc_static.dir\\src\\misc.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\misc.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\misc.c"
+},
+{
+  "directory": "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang-cl.exe  /nologo -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\include -IC:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\build\\webcam_libuvc\\include /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fowebcam_libuvc\\CMakeFiles\\example.dir\\src\\example.c.obj /FdTARGET_COMPILE_PDB -c -- C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\example.c",
+  "file": "C:\\Users\\debea\\Documents\\IMAC\\IMAC_2\\STAGE\\libuvc_test\\webcam_libuvc\\webcam_libuvc\\src\\example.c"
+}
+]
