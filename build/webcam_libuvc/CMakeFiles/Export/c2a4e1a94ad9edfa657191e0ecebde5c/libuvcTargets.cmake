@@ -19,7 +19,7 @@ set(CMAKE_IMPORT_FILE_VERSION 1)
 set(_cmake_targets_defined "")
 set(_cmake_targets_not_defined "")
 set(_cmake_expected_targets "")
-foreach(_cmake_expected_target IN ITEMS LibUVC::UVCShared LibUVC::UVCStatic)
+foreach(_cmake_expected_target IN ITEMS LibUVC::UVCStatic)
   list(APPEND _cmake_expected_targets "${_cmake_expected_target}")
   if(TARGET "${_cmake_expected_target}")
     list(APPEND _cmake_targets_defined "${_cmake_expected_target}")
@@ -55,19 +55,12 @@ if(_IMPORT_PREFIX STREQUAL "/")
   set(_IMPORT_PREFIX "")
 endif()
 
-# Create imported target LibUVC::UVCShared
-add_library(LibUVC::UVCShared SHARED IMPORTED)
-
-set_target_properties(LibUVC::UVCShared PROPERTIES
-  INTERFACE_INCLUDE_DIRECTORIES "${_IMPORT_PREFIX}/include;${_IMPORT_PREFIX}/include"
-)
-
 # Create imported target LibUVC::UVCStatic
 add_library(LibUVC::UVCStatic STATIC IMPORTED)
 
 set_target_properties(LibUVC::UVCStatic PROPERTIES
   INTERFACE_INCLUDE_DIRECTORIES "${_IMPORT_PREFIX}/include;${_IMPORT_PREFIX}/include"
-  INTERFACE_LINK_LIBRARIES "\$<LINK_ONLY:LibUSB::LibUSB>"
+  INTERFACE_LINK_LIBRARIES "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libusb/libusb-1.0.26-binaries/VS2015-x64/lib/libubs-1.0.lib"
 )
 
 if(CMAKE_VERSION VERSION_LESS 2.8.12)

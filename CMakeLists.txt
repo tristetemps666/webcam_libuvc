@@ -39,5 +39,10 @@ endif()
 # p6_copy_folder(${PROJECT_NAME} assets)
 
 # ---Add libuvc library---
+set(BUILD_UVC_STATIC ON CACHE BOOL true)
 add_subdirectory(webcam_libuvc)
-target_link_libraries(${PROJECT_NAME} PRIVATE LibUVC::UVC)
+target_link_libraries(${PROJECT_NAME} PRIVATE libuvc)
+
+# # ---Add libusb library---
+# add_subdirectory(libusb)
+# target_link_libraries(${PROJECT_NAME} PRIVATE LibUVC::UVC)

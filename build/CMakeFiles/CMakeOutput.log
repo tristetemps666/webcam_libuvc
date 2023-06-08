@@ -26,28 +26,28 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 The CXX compiler identification is Clang, found in "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/CMakeFiles/3.25.1/CompilerIdCXX/CMakeCXXCompilerId.obj"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/CMakeFiles/CMakeScratch/TryCompile-25nmhx
+Change Dir: C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/CMakeFiles/CMakeScratch/TryCompile-ocdxqv
 
-Run Build Command(s):C:/PROGRA~2/MICROS~4/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_69063 && [1/2] Building C object CMakeFiles\cmTC_69063.dir\CMakeCCompilerABI.c.obj
-[2/2] Linking C executable cmTC_69063.exe
+Run Build Command(s):C:/PROGRA~2/MICROS~4/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_dc205 && [1/2] Building C object CMakeFiles\cmTC_dc205.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_dc205.exe
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/CMakeFiles/CMakeScratch/TryCompile-zh6muh
+Change Dir: C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/CMakeFiles/CMakeScratch/TryCompile-m9h1wo
 
-Run Build Command(s):C:/PROGRA~2/MICROS~4/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_09bb1 && [1/2] Building CXX object CMakeFiles\cmTC_09bb1.dir\CMakeCXXCompilerABI.cpp.obj
-[2/2] Linking CXX executable cmTC_09bb1.exe
+Run Build Command(s):C:/PROGRA~2/MICROS~4/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_528be && [1/2] Building CXX object CMakeFiles\cmTC_528be.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_528be.exe
 
 
 
 
 
 Detecting CXX [-std:c++14] compiler features compiled with the following output:
-Change Dir: C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/CMakeFiles/CMakeScratch/TryCompile-bj6whj
+Change Dir: C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/CMakeFiles/CMakeScratch/TryCompile-2a2qgo
 
-Run Build Command(s):C:/PROGRA~2/MICROS~4/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_a99a3 && [1/2] Building CXX object CMakeFiles\cmTC_a99a3.dir\feature_tests.cxx.obj
-[2/2] Linking CXX executable cmTC_a99a3.exe
+Run Build Command(s):C:/PROGRA~2/MICROS~4/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_237d8 && [1/2] Building CXX object CMakeFiles\cmTC_237d8.dir\feature_tests.cxx.obj
+[2/2] Linking CXX executable cmTC_237d8.exe
 
 
 
@@ -110,10 +110,10 @@ Run Build Command(s):C:/PROGRA~2/MICROS~4/2019/COMMUN~1/Common7/IDE/COMMON~1/MIC
 
 
 Detecting CXX [] compiler features compiled with the following output:
-Change Dir: C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/CMakeFiles/CMakeScratch/TryCompile-ubrtm3
+Change Dir: C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/CMakeFiles/CMakeScratch/TryCompile-ob7lvb
 
-Run Build Command(s):C:/PROGRA~2/MICROS~4/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_fb746 && [1/2] Building CXX object CMakeFiles\cmTC_fb746.dir\feature_tests.cxx.obj
-[2/2] Linking CXX executable cmTC_fb746.exe
+Run Build Command(s):C:/PROGRA~2/MICROS~4/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_0ebbf && [1/2] Building CXX object CMakeFiles\cmTC_0ebbf.dir\feature_tests.cxx.obj
+[2/2] Linking CXX executable cmTC_0ebbf.exe
 
 
 

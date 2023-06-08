@@ -1,0 +1,145 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"webcam_libuvc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 179,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 189,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 195,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 206,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 222,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 227,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"webcam_libuvc/uvc.lib"
+			],
+			"targetId" : "uvc_static::@7c89b332b00573519065",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/libuvc",
+			"paths" : 
+			[
+				"webcam_libuvc/include/libuvc/libuvc.h",
+				"build/webcam_libuvc/include/libuvc/libuvc_config.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/libuvc",
+			"exportName" : "libuvcTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "uvc_static::@7c89b332b00573519065",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"webcam_libuvc/CMakeFiles/Export/c2a4e1a94ad9edfa657191e0ecebde5c/libuvcTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/libuvc",
+			"paths" : 
+			[
+				"webcam_libuvc/cmake/FindLibUSB.cmake",
+				"webcam_libuvc/cmake/FindJpegPkg.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/libuvc",
+			"paths" : 
+			[
+				"build/webcam_libuvc/libuvcConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"build/webcam_libuvc/libuvc.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/libuvc",
+			"paths" : 
+			[
+				"webcam_libuvc/libuvcConfig.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "webcam_libuvc",
+		"source" : "webcam_libuvc"
+	}
+}

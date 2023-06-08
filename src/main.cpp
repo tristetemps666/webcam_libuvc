@@ -1,6 +1,20 @@
-#include "libuvc/libuvc.h"
+#include "C:\Users\debea\Documents\IMAC\IMAC_2\STAGE\libuvc_test\webcam_libuvc\webcam_libuvc\include\libuvc\libuvc.h"
 #include <stdio.h>
 #include <unistd.h>
+
+#include <iostream>
+// Library effective with windows
+#include <windows.h>
+
+// Library effective with Linux
+#include <unistd.h>
+
+#include <chrono>
+#include <thread>
+
+using namespace std::chrono_literals;
+
+void sleep(int seconds) { std::this_thread::sleep_for(seconds * 1s); }
 
 /* This callback function runs once per frame. Use it to perform any
  * quick processing you need, or have it put the frame into your application's
@@ -207,7 +221,7 @@ int main(int argc, char **argv) {
                 " ... uvc_set_ae_mode failed to enable auto exposure mode");
           }
 
-          sleep(10); /* stream for 10 seconds */
+          std::sleep(10); /* stream for 10 seconds */
 
           /* End the stream. Blocks until last callback is serviced */
           uvc_stop_streaming(devh);

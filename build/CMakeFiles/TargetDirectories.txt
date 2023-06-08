@@ -4,9 +4,7 @@ C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/CMake
 C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/CMakeFiles/list_install_components.dir
 C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/CMakeFiles/install.dir
 C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/CMakeFiles/install/local.dir
-C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/webcam_libuvc/CMakeFiles/uvc.dir
 C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/webcam_libuvc/CMakeFiles/uvc_static.dir
-C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/webcam_libuvc/CMakeFiles/example.dir
 C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/webcam_libuvc/CMakeFiles/edit_cache.dir
 C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/webcam_libuvc/CMakeFiles/rebuild_cache.dir
 C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/webcam_libuvc/CMakeFiles/list_install_components.dir

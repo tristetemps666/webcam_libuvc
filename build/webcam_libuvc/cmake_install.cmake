@@ -33,21 +33,6 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY OPTIONAL FILES "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/webcam_libuvc/uvc.lib")
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE SHARED_LIBRARY FILES "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/webcam_libuvc/uvc.dll")
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libuvc" TYPE FILE FILES
-    "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/webcam_libuvc/include/libuvc/libuvc.h"
-    "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/webcam_libuvc/include/libuvc/libuvc_config.h"
-    )
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/debea/Documents/IMAC/IMAC_2/STAGE/libuvc_test/webcam_libuvc/build/webcam_libuvc/uvc.lib")
 endif()
 
